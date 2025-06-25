@@ -1,6 +1,6 @@
 <!-- 🖼️ GitHub Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raj3460/Raj3460/main/animated-banner.gif
+  <img src="https://raw.githubusercontent.com/Raj3460/Raj3460/animated-banner.gif
 " alt="Raj Kumar Sarkar Banner" style="width:100%;" />
 </p>
 
