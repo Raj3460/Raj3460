@@ -1,26 +1,10 @@
 <!-- 🖼️ GitHub Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raj3460/Raj3460/main/assets/github-banner.png" alt="Raj Kumar Sarkar Banner" style="width:100%;" />
+  <img src="[https://raw.githubusercontent.com/Raj3460/Raj3460/main/assets/github-banner.png](https://camo.githubusercontent.com/c190a0503640cac15107a3bd782e98eb5eb96e2c34962aeb3b629b293eba566c/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6362306431333965313738303138646638623365373738333639333935616337)" alt="Raj Kumar Sarkar Banner" style="width:100%;" />
 </p>
 
 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
-
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Raj+Kumar+Sarkar;Full-Stack+Web+Developer;MERN+Stack+Learner;React+%7C+Next.js+%7C+Firebase+%7C+MongoDB" alt="Typing SVG" />
