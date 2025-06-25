@@ -64,10 +64,4 @@
 
 ---
 
-## 🤖 Dev Terminal
 
-```bash
-npm install raj3460-skills
-> Installing problem-solving@latest
-> Installing creativity@3.2.1
-> Installing teamwork@5.0.0
