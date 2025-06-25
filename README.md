@@ -28,14 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj3460&layout=compact&theme=radical" width="40%"/>
 </div>
 
-## 🏻 Featured Projects
-<div align="center">
-  
-| [![StudyHub](https://github-readme-stats.vercel.app/api/pin/?username=Raj3460&repo=StudyHub&theme=radical)](https://github.com/Raj3460/StudyHub) | [![HobbyHub](https://github-readme-stats.vercel.app/api/pin/?username=Raj3460&repo=HobbyHub&theme=radical)](https://github.com/Raj3460/HobbyHub) |
-|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![JobTrack](https://github-readme-stats.vercel.app/api/pin/?username=Raj3460&repo=JobTrack&theme=radical)](https://github.com/Raj3460/JobTrack) | [![More Projects](https://github-readme-stats.vercel.app/api/pin/?username=Raj3460&repo=your-repo&theme=radical)](https://github.com/Raj3460) |
 
-</div>
 
 ## 🏅 Dev Achievements
 [![Next.js Wizard](https://img.shields.io/badge/Next.js_Wizard-000000?style=for-the-badge&logo=next.js)](https://nextjs.org)
