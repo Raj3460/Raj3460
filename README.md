@@ -1,3 +1,6 @@
+
+![Banner](https://raw.githubusercontent.com/Raj3460/Raj3460/main/assets/github-banner.png)
+
 # 💫 About Me:
 🎓 I'm currently learning Full Stack Web Development at **Programming Hero**  
 🚀 Passionate about building user-friendly, responsive, and modern web applications  
@@ -9,10 +12,11 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,figma,firebase&perline=6" />
 </p>
 
-## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/RajKumarSarkar)
+## 📞 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rajkumarsarkar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/Raj3460)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sarkarrajkumar3460@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+
 
 ## 📊 GitHub Analytics
 <div align="center">
