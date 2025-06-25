@@ -1,4 +1,18 @@
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Raj+Kumar+Sarkar;Full-Stack+Web+Developer;MERN+Stack+Learner;React+%7C+Next.js+%7C+Firebase+%7C+MongoDB" alt="Typing SVG" />
+</h1>
+
+---
+
+
+
+
 <!-- 🖼️ GitHub Profile Banner -->
+
+
+
+
 <p align="center">
   <img src="github Banner.gif" width="100%">
 </p>
@@ -7,11 +21,6 @@
 
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Raj+Kumar+Sarkar;Full-Stack+Web+Developer;MERN+Stack+Learner;React+%7C+Next.js+%7C+Firebase+%7C+MongoDB" alt="Typing SVG" />
-</h1>
-
----
 
 ## 💫 About Me:
 🎓 I'm currently learning Full Stack Web Development at **Programming Hero**  
