@@ -2,9 +2,40 @@
 <p align="center">
   <img src="[https://raw.githubusercontent.com/Raj3460/Raj3460/main/assets/github-banner.png](https://camo.githubusercontent.com/c190a0503640cac15107a3bd782e98eb5eb96e2c34962aeb3b629b293eba566c/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6362306431333965313738303138646638623365373738333639333935616337)" alt="Raj Kumar Sarkar Banner" style="width:100%;" />
 </p>
-<p align="center">
-  <img src="https://readme-hero-generator.vercel.app/api?username=Raj3460&title=Hi%2C%20I%27m%20Raj%20Kumar%20Sarkar&subtitle=Passionate%20Web%20Developer%20%7C%20React%20%26%20Node%20Lover&font=Fira%20Code&theme=dark&background=gradient" alt="Raj Kumar Sarkar banner" />
-</p>
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript", "Python", "Dart"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Flask"],
+        },
+        mobileApp: {
+            crossPlatform: ["Flutter"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Leading a way in generative AI innovation",
+    funFact: "I can debug faster with a coffee in hand!"
+};
 
 
 
