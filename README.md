@@ -23,7 +23,7 @@
 
 
 ## 💫 About Me:
-🎓 I'm currently learning Full Stack Web Development at **Programming Hero**  
+🎓 I'm currently learning Full Stack Web Development at **Programming Hero** 
 🚀 Passionate about building user-friendly, responsive, and modern web applications  
 🌱 Currently focusing on **MERN Stack**, **Authentication**, and **UI Animation**  
 🧩 I love solving problems and exploring new technologies  
