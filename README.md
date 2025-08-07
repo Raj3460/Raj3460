@@ -66,12 +66,6 @@
 
 ---
 
-## 🏅 Dev Achievements
 
-[![Next.js Wizard](https://img.shields.io/badge/Next.js_Wizard-000000?style=for-the-badge&logo=next.js)](https://nextjs.org)
-[![MongoDB Maestro](https://img.shields.io/badge/MongoDB_Maestro-47A248?style=for-the-badge&logo=mongodb)](https://mongodb.com)
-[![React Ninja](https://img.shields.io/badge/React_Ninja-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org)
-
----
 
 
